@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 4256de0578d09f1cf03b                            #生成的clientID
   clientSecret: f7af40ba641e6cc9d193b34d7e103128e7747a08    #生成的clientSecret
-  repo: summer-zhang.github.io    #仓库名称
+  repo: oauth-blog    #仓库名称
   owner: summer-zhang    #github用户名
   admin: summer-zhang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
